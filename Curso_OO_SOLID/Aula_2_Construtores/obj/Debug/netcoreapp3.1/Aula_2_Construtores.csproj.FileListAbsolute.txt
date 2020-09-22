@@ -1,0 +1,12 @@
+C:\Users\thiag\OneDrive\Área de Trabalho\CURSOS\Udemy\SOLID + OO\Curso_OO_SOLID\Aula_2_Construtores\bin\Debug\netcoreapp3.1\Aula_2_Construtores.exe
+C:\Users\thiag\OneDrive\Área de Trabalho\CURSOS\Udemy\SOLID + OO\Curso_OO_SOLID\Aula_2_Construtores\bin\Debug\netcoreapp3.1\Aula_2_Construtores.deps.json
+C:\Users\thiag\OneDrive\Área de Trabalho\CURSOS\Udemy\SOLID + OO\Curso_OO_SOLID\Aula_2_Construtores\bin\Debug\netcoreapp3.1\Aula_2_Construtores.runtimeconfig.json
+C:\Users\thiag\OneDrive\Área de Trabalho\CURSOS\Udemy\SOLID + OO\Curso_OO_SOLID\Aula_2_Construtores\bin\Debug\netcoreapp3.1\Aula_2_Construtores.runtimeconfig.dev.json
+C:\Users\thiag\OneDrive\Área de Trabalho\CURSOS\Udemy\SOLID + OO\Curso_OO_SOLID\Aula_2_Construtores\bin\Debug\netcoreapp3.1\Aula_2_Construtores.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\CURSOS\Udemy\SOLID + OO\Curso_OO_SOLID\Aula_2_Construtores\bin\Debug\netcoreapp3.1\Aula_2_Construtores.pdb
+C:\Users\thiag\OneDrive\Área de Trabalho\CURSOS\Udemy\SOLID + OO\Curso_OO_SOLID\Aula_2_Construtores\obj\Debug\netcoreapp3.1\Aula_2_Construtores.AssemblyInfoInputs.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\CURSOS\Udemy\SOLID + OO\Curso_OO_SOLID\Aula_2_Construtores\obj\Debug\netcoreapp3.1\Aula_2_Construtores.AssemblyInfo.cs
+C:\Users\thiag\OneDrive\Área de Trabalho\CURSOS\Udemy\SOLID + OO\Curso_OO_SOLID\Aula_2_Construtores\obj\Debug\netcoreapp3.1\Aula_2_Construtores.csproj.CoreCompileInputs.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\CURSOS\Udemy\SOLID + OO\Curso_OO_SOLID\Aula_2_Construtores\obj\Debug\netcoreapp3.1\Aula_2_Construtores.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\CURSOS\Udemy\SOLID + OO\Curso_OO_SOLID\Aula_2_Construtores\obj\Debug\netcoreapp3.1\Aula_2_Construtores.pdb
+C:\Users\thiag\OneDrive\Área de Trabalho\CURSOS\Udemy\SOLID + OO\Curso_OO_SOLID\Aula_2_Construtores\obj\Debug\netcoreapp3.1\Aula_2_Construtores.genruntimeconfig.cache

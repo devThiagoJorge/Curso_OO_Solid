@@ -1,0 +1,30 @@
+=========== Programação Orientada a Objetos =========== 
+
+-> Paradigma onde tenta aproximar a programação do mundo real.
+
+4 pilares: 
+
+1° Encapsulamento: forma de esconder a implementação da classe;
+2° Herança: maneira de herdar atributos e comportamentos de uma classe;
+3° Polimorfismo: maneira que um objeto muda seu comportamento de diferentes formas;
+4° Abstração: pensar na forma de aproximar do mundo real
+
+
+Orientação a objetos visa a melhor manutenção de um sistema e o rápido desenvolvimento de maneira rápida. 
+
+
+
+=========== Classe, objeto, atributos e metódos =========== 
+
+Classe: seria o molde do objeto pensado;
+Objeto: seria a instância da classe ou seja a criação;
+Atributos: caracteristicas que fazem parte da classe;
+Metodos: Comportamentos; 
+
+=========== Constructor =========== 
+
+Serve para inicializar objetos e falar o que é necessário ser inicializado;
+
+Uma classe pode possuir mais de 1 contrutor (conceito de sobrecarga) 
+
+A ideia disso é justamente para quando a classe for instanciada ela ter alguns atributos já definido;
