@@ -10,3 +10,4 @@ C:\Users\thiag\OneDrive\Área de Trabalho\CURSOS\Udemy\SOLID + OO\Curso_OO_SOLID
 C:\Users\thiag\OneDrive\Área de Trabalho\CURSOS\Udemy\SOLID + OO\Curso_OO_SOLID\Aula_2_Construtores\obj\Debug\netcoreapp3.1\Aula_2_Construtores.dll
 C:\Users\thiag\OneDrive\Área de Trabalho\CURSOS\Udemy\SOLID + OO\Curso_OO_SOLID\Aula_2_Construtores\obj\Debug\netcoreapp3.1\Aula_2_Construtores.pdb
 C:\Users\thiag\OneDrive\Área de Trabalho\CURSOS\Udemy\SOLID + OO\Curso_OO_SOLID\Aula_2_Construtores\obj\Debug\netcoreapp3.1\Aula_2_Construtores.genruntimeconfig.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\CURSOS\Udemy\SOLID + OO\Curso_OO_SOLID\Aula_2_Construtores\obj\Debug\netcoreapp3.1\Aula_2_Construtores.csprojAssemblyReference.cache

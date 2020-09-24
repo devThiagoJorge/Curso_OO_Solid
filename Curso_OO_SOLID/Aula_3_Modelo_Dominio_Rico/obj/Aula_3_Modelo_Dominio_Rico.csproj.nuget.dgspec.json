@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\thiag\\OneDrive\\Área de Trabalho\\CURSOS\\Udemy\\SOLID + OO\\Curso_OO_SOLID\\Construtores\\Construtores.csproj": {}
+    "C:\\Users\\thiag\\OneDrive\\Área de Trabalho\\CURSOS\\Udemy\\SOLID + OO\\Curso_OO_SOLID\\Aula_3_Modelo_Dominio_Rico\\Aula_3_Modelo_Dominio_Rico.csproj": {}
   },
   "projects": {
-    "C:\\Users\\thiag\\OneDrive\\Área de Trabalho\\CURSOS\\Udemy\\SOLID + OO\\Curso_OO_SOLID\\Construtores\\Construtores.csproj": {
+    "C:\\Users\\thiag\\OneDrive\\Área de Trabalho\\CURSOS\\Udemy\\SOLID + OO\\Curso_OO_SOLID\\Aula_3_Modelo_Dominio_Rico\\Aula_3_Modelo_Dominio_Rico.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\thiag\\OneDrive\\Área de Trabalho\\CURSOS\\Udemy\\SOLID + OO\\Curso_OO_SOLID\\Construtores\\Construtores.csproj",
-        "projectName": "Construtores",
-        "projectPath": "C:\\Users\\thiag\\OneDrive\\Área de Trabalho\\CURSOS\\Udemy\\SOLID + OO\\Curso_OO_SOLID\\Construtores\\Construtores.csproj",
+        "projectUniqueName": "C:\\Users\\thiag\\OneDrive\\Área de Trabalho\\CURSOS\\Udemy\\SOLID + OO\\Curso_OO_SOLID\\Aula_3_Modelo_Dominio_Rico\\Aula_3_Modelo_Dominio_Rico.csproj",
+        "projectName": "Aula_3_Modelo_Dominio_Rico",
+        "projectPath": "C:\\Users\\thiag\\OneDrive\\Área de Trabalho\\CURSOS\\Udemy\\SOLID + OO\\Curso_OO_SOLID\\Aula_3_Modelo_Dominio_Rico\\Aula_3_Modelo_Dominio_Rico.csproj",
         "packagesPath": "C:\\Users\\thiag\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\thiag\\OneDrive\\Área de Trabalho\\CURSOS\\Udemy\\SOLID + OO\\Curso_OO_SOLID\\Construtores\\obj\\",
+        "outputPath": "C:\\Users\\thiag\\OneDrive\\Área de Trabalho\\CURSOS\\Udemy\\SOLID + OO\\Curso_OO_SOLID\\Aula_3_Modelo_Dominio_Rico\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\thiag\\AppData\\Roaming\\NuGet\\NuGet.Config",

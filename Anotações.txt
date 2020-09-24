@@ -28,3 +28,28 @@ Serve para inicializar objetos e falar o que é necessário ser inicializado;
 Uma classe pode possuir mais de 1 contrutor (conceito de sobrecarga) 
 
 A ideia disso é justamente para quando a classe for instanciada ela ter alguns atributos já definido;
+
+=========== Modificadores de acessos =========== 
+
+https://docs.microsoft.com/pt-br/dotnet/csharp/programming-guide/classes-and-structs/access-modifiers
+
+Serve para controlar a visibilidade da classe, seus metodos e atributos dentro do projeto;
+
+public: não existe restrição / é visivel para todos;
+private: acesso limitado a classes, sempre quando uma classe é criada ela por default é private
+internal: acesso limitado dentro do assembly (projetos externos não tem acesso)
+protect: acesso limitado a membros de mesma classe e herança.
+
+=========== Propriedades e encapsulamento =========== 
+
+Encapsulamento: Processo de esconder os membros de uma classe para um acesso exterior;
+
+Get = retorna o valor de uma propriedade;
+Set = atribuição de valor para uma propriedade;
+
+=========== Modelos de dominios =========== 
+
+Modelo: seria a models, a representação do mundo real;
+
+Modelo anêmico: são models "pobres", que não possui validação;
+Modelos ricos: são models que consegue tratar situações dentro da própria classe;

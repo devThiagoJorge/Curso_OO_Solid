@@ -1,0 +1,13 @@
+C:\Users\thiag\OneDrive\Área de Trabalho\CURSOS\Udemy\SOLID + OO\Curso_OO_SOLID\Aula_3_Modelo_Dominio_Rico\bin\Debug\netcoreapp3.1\Aula_3_Modelo_Dominio_Rico.exe
+C:\Users\thiag\OneDrive\Área de Trabalho\CURSOS\Udemy\SOLID + OO\Curso_OO_SOLID\Aula_3_Modelo_Dominio_Rico\bin\Debug\netcoreapp3.1\Aula_3_Modelo_Dominio_Rico.deps.json
+C:\Users\thiag\OneDrive\Área de Trabalho\CURSOS\Udemy\SOLID + OO\Curso_OO_SOLID\Aula_3_Modelo_Dominio_Rico\bin\Debug\netcoreapp3.1\Aula_3_Modelo_Dominio_Rico.runtimeconfig.json
+C:\Users\thiag\OneDrive\Área de Trabalho\CURSOS\Udemy\SOLID + OO\Curso_OO_SOLID\Aula_3_Modelo_Dominio_Rico\bin\Debug\netcoreapp3.1\Aula_3_Modelo_Dominio_Rico.runtimeconfig.dev.json
+C:\Users\thiag\OneDrive\Área de Trabalho\CURSOS\Udemy\SOLID + OO\Curso_OO_SOLID\Aula_3_Modelo_Dominio_Rico\bin\Debug\netcoreapp3.1\Aula_3_Modelo_Dominio_Rico.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\CURSOS\Udemy\SOLID + OO\Curso_OO_SOLID\Aula_3_Modelo_Dominio_Rico\bin\Debug\netcoreapp3.1\Aula_3_Modelo_Dominio_Rico.pdb
+C:\Users\thiag\OneDrive\Área de Trabalho\CURSOS\Udemy\SOLID + OO\Curso_OO_SOLID\Aula_3_Modelo_Dominio_Rico\obj\Debug\netcoreapp3.1\Aula_3_Modelo_Dominio_Rico.csprojAssemblyReference.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\CURSOS\Udemy\SOLID + OO\Curso_OO_SOLID\Aula_3_Modelo_Dominio_Rico\obj\Debug\netcoreapp3.1\Aula_3_Modelo_Dominio_Rico.AssemblyInfoInputs.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\CURSOS\Udemy\SOLID + OO\Curso_OO_SOLID\Aula_3_Modelo_Dominio_Rico\obj\Debug\netcoreapp3.1\Aula_3_Modelo_Dominio_Rico.AssemblyInfo.cs
+C:\Users\thiag\OneDrive\Área de Trabalho\CURSOS\Udemy\SOLID + OO\Curso_OO_SOLID\Aula_3_Modelo_Dominio_Rico\obj\Debug\netcoreapp3.1\Aula_3_Modelo_Dominio_Rico.csproj.CoreCompileInputs.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\CURSOS\Udemy\SOLID + OO\Curso_OO_SOLID\Aula_3_Modelo_Dominio_Rico\obj\Debug\netcoreapp3.1\Aula_3_Modelo_Dominio_Rico.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\CURSOS\Udemy\SOLID + OO\Curso_OO_SOLID\Aula_3_Modelo_Dominio_Rico\obj\Debug\netcoreapp3.1\Aula_3_Modelo_Dominio_Rico.pdb
+C:\Users\thiag\OneDrive\Área de Trabalho\CURSOS\Udemy\SOLID + OO\Curso_OO_SOLID\Aula_3_Modelo_Dominio_Rico\obj\Debug\netcoreapp3.1\Aula_3_Modelo_Dominio_Rico.genruntimeconfig.cache
