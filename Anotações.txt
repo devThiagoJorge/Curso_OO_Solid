@@ -53,3 +53,44 @@ Modelo: seria a models, a representação do mundo real;
 
 Modelo anêmico: são models "pobres", que não possui validação;
 Modelos ricos: são models que consegue tratar situações dentro da própria classe;
+
+=========== Métodos e Hierarquia de projeto =========== 
+
+Método = bloco de código, com instruções, possui modificadores e assinatura (tipo, nome, modificador de acesso e params).
+
+Hierarquia de um projeto:
+Namespace {
+	classe {
+		método { 
+		}
+	}
+
+}
+
+Método Main: ponto de entrada a aplicação, chamada pela CLR (Common Language Runtime);
+
+
+=========== Sobrecarga / Overload =========== 
+Método com o mesmo nome, mas assinatura diferente.
+
+ex: 
+public int Somar(int num1, int num2){}
+public int Somar(int num1, int num2, int num3){}
+
+
+
+=========== Parâmetro opcional =========== 
+* Parâmetros que possuem um valor constante, mas podem sem modificados, caso não seja modificado é atribuido o valor padrão. 
+
+exemplos: 
+
+public int Somar (int num1, int x = 20, int z = 30){}
+
+=========== Métodos Estáticos =========== 
+
+É usado a palavra reservada static;
+Basicamente, quando usado o static é indicado que o item não precisa ser instanciado para ser utilizado;
+Ou seja é possível utilizar o metódo, atributo, classe de qualquer lugar
+
+Um exemplo é o metedo WriteLine ou ReadLine que não precisa de instância.
+

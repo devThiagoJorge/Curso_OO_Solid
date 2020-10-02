@@ -1,0 +1,12 @@
+C:\Users\thiag\OneDrive\Área de Trabalho\CURSOS\Udemy\SOLID + OO\Curso_OO_SOLID\Aula_5_ParametroOpcional\bin\Debug\netcoreapp3.1\Aula_5_ParametroOpcional.exe
+C:\Users\thiag\OneDrive\Área de Trabalho\CURSOS\Udemy\SOLID + OO\Curso_OO_SOLID\Aula_5_ParametroOpcional\bin\Debug\netcoreapp3.1\Aula_5_ParametroOpcional.deps.json
+C:\Users\thiag\OneDrive\Área de Trabalho\CURSOS\Udemy\SOLID + OO\Curso_OO_SOLID\Aula_5_ParametroOpcional\bin\Debug\netcoreapp3.1\Aula_5_ParametroOpcional.runtimeconfig.json
+C:\Users\thiag\OneDrive\Área de Trabalho\CURSOS\Udemy\SOLID + OO\Curso_OO_SOLID\Aula_5_ParametroOpcional\bin\Debug\netcoreapp3.1\Aula_5_ParametroOpcional.runtimeconfig.dev.json
+C:\Users\thiag\OneDrive\Área de Trabalho\CURSOS\Udemy\SOLID + OO\Curso_OO_SOLID\Aula_5_ParametroOpcional\bin\Debug\netcoreapp3.1\Aula_5_ParametroOpcional.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\CURSOS\Udemy\SOLID + OO\Curso_OO_SOLID\Aula_5_ParametroOpcional\bin\Debug\netcoreapp3.1\Aula_5_ParametroOpcional.pdb
+C:\Users\thiag\OneDrive\Área de Trabalho\CURSOS\Udemy\SOLID + OO\Curso_OO_SOLID\Aula_5_ParametroOpcional\obj\Debug\netcoreapp3.1\Aula_5_ParametroOpcional.AssemblyInfoInputs.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\CURSOS\Udemy\SOLID + OO\Curso_OO_SOLID\Aula_5_ParametroOpcional\obj\Debug\netcoreapp3.1\Aula_5_ParametroOpcional.AssemblyInfo.cs
+C:\Users\thiag\OneDrive\Área de Trabalho\CURSOS\Udemy\SOLID + OO\Curso_OO_SOLID\Aula_5_ParametroOpcional\obj\Debug\netcoreapp3.1\Aula_5_ParametroOpcional.csproj.CoreCompileInputs.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\CURSOS\Udemy\SOLID + OO\Curso_OO_SOLID\Aula_5_ParametroOpcional\obj\Debug\netcoreapp3.1\Aula_5_ParametroOpcional.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\CURSOS\Udemy\SOLID + OO\Curso_OO_SOLID\Aula_5_ParametroOpcional\obj\Debug\netcoreapp3.1\Aula_5_ParametroOpcional.pdb
+C:\Users\thiag\OneDrive\Área de Trabalho\CURSOS\Udemy\SOLID + OO\Curso_OO_SOLID\Aula_5_ParametroOpcional\obj\Debug\netcoreapp3.1\Aula_5_ParametroOpcional.genruntimeconfig.cache

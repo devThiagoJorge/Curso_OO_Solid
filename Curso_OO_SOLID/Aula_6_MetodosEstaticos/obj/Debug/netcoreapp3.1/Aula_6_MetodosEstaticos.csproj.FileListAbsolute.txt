@@ -1,0 +1,12 @@
+C:\Users\thiag\OneDrive\Área de Trabalho\CURSOS\Udemy\SOLID + OO\Curso_OO_SOLID\Aula_6_MetodosEstaticos\bin\Debug\netcoreapp3.1\Aula_6_MetodosEstaticos.exe
+C:\Users\thiag\OneDrive\Área de Trabalho\CURSOS\Udemy\SOLID + OO\Curso_OO_SOLID\Aula_6_MetodosEstaticos\bin\Debug\netcoreapp3.1\Aula_6_MetodosEstaticos.deps.json
+C:\Users\thiag\OneDrive\Área de Trabalho\CURSOS\Udemy\SOLID + OO\Curso_OO_SOLID\Aula_6_MetodosEstaticos\bin\Debug\netcoreapp3.1\Aula_6_MetodosEstaticos.runtimeconfig.json
+C:\Users\thiag\OneDrive\Área de Trabalho\CURSOS\Udemy\SOLID + OO\Curso_OO_SOLID\Aula_6_MetodosEstaticos\bin\Debug\netcoreapp3.1\Aula_6_MetodosEstaticos.runtimeconfig.dev.json
+C:\Users\thiag\OneDrive\Área de Trabalho\CURSOS\Udemy\SOLID + OO\Curso_OO_SOLID\Aula_6_MetodosEstaticos\bin\Debug\netcoreapp3.1\Aula_6_MetodosEstaticos.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\CURSOS\Udemy\SOLID + OO\Curso_OO_SOLID\Aula_6_MetodosEstaticos\bin\Debug\netcoreapp3.1\Aula_6_MetodosEstaticos.pdb
+C:\Users\thiag\OneDrive\Área de Trabalho\CURSOS\Udemy\SOLID + OO\Curso_OO_SOLID\Aula_6_MetodosEstaticos\obj\Debug\netcoreapp3.1\Aula_6_MetodosEstaticos.AssemblyInfoInputs.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\CURSOS\Udemy\SOLID + OO\Curso_OO_SOLID\Aula_6_MetodosEstaticos\obj\Debug\netcoreapp3.1\Aula_6_MetodosEstaticos.AssemblyInfo.cs
+C:\Users\thiag\OneDrive\Área de Trabalho\CURSOS\Udemy\SOLID + OO\Curso_OO_SOLID\Aula_6_MetodosEstaticos\obj\Debug\netcoreapp3.1\Aula_6_MetodosEstaticos.csproj.CoreCompileInputs.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\CURSOS\Udemy\SOLID + OO\Curso_OO_SOLID\Aula_6_MetodosEstaticos\obj\Debug\netcoreapp3.1\Aula_6_MetodosEstaticos.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\CURSOS\Udemy\SOLID + OO\Curso_OO_SOLID\Aula_6_MetodosEstaticos\obj\Debug\netcoreapp3.1\Aula_6_MetodosEstaticos.pdb
+C:\Users\thiag\OneDrive\Área de Trabalho\CURSOS\Udemy\SOLID + OO\Curso_OO_SOLID\Aula_6_MetodosEstaticos\obj\Debug\netcoreapp3.1\Aula_6_MetodosEstaticos.genruntimeconfig.cache
