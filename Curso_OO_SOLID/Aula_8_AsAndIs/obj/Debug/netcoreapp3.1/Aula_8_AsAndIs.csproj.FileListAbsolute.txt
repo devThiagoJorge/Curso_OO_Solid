@@ -1,0 +1,12 @@
+C:\Users\thiag\OneDrive\Área de Trabalho\CURSOS\Udemy\SOLID + OO\Curso_OO_SOLID\Aula_8_AsAndIs\bin\Debug\netcoreapp3.1\Aula_8_AsAndIs.exe
+C:\Users\thiag\OneDrive\Área de Trabalho\CURSOS\Udemy\SOLID + OO\Curso_OO_SOLID\Aula_8_AsAndIs\bin\Debug\netcoreapp3.1\Aula_8_AsAndIs.deps.json
+C:\Users\thiag\OneDrive\Área de Trabalho\CURSOS\Udemy\SOLID + OO\Curso_OO_SOLID\Aula_8_AsAndIs\bin\Debug\netcoreapp3.1\Aula_8_AsAndIs.runtimeconfig.json
+C:\Users\thiag\OneDrive\Área de Trabalho\CURSOS\Udemy\SOLID + OO\Curso_OO_SOLID\Aula_8_AsAndIs\bin\Debug\netcoreapp3.1\Aula_8_AsAndIs.runtimeconfig.dev.json
+C:\Users\thiag\OneDrive\Área de Trabalho\CURSOS\Udemy\SOLID + OO\Curso_OO_SOLID\Aula_8_AsAndIs\bin\Debug\netcoreapp3.1\Aula_8_AsAndIs.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\CURSOS\Udemy\SOLID + OO\Curso_OO_SOLID\Aula_8_AsAndIs\bin\Debug\netcoreapp3.1\Aula_8_AsAndIs.pdb
+C:\Users\thiag\OneDrive\Área de Trabalho\CURSOS\Udemy\SOLID + OO\Curso_OO_SOLID\Aula_8_AsAndIs\obj\Debug\netcoreapp3.1\Aula_8_AsAndIs.AssemblyInfoInputs.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\CURSOS\Udemy\SOLID + OO\Curso_OO_SOLID\Aula_8_AsAndIs\obj\Debug\netcoreapp3.1\Aula_8_AsAndIs.AssemblyInfo.cs
+C:\Users\thiag\OneDrive\Área de Trabalho\CURSOS\Udemy\SOLID + OO\Curso_OO_SOLID\Aula_8_AsAndIs\obj\Debug\netcoreapp3.1\Aula_8_AsAndIs.csproj.CoreCompileInputs.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\CURSOS\Udemy\SOLID + OO\Curso_OO_SOLID\Aula_8_AsAndIs\obj\Debug\netcoreapp3.1\Aula_8_AsAndIs.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\CURSOS\Udemy\SOLID + OO\Curso_OO_SOLID\Aula_8_AsAndIs\obj\Debug\netcoreapp3.1\Aula_8_AsAndIs.pdb
+C:\Users\thiag\OneDrive\Área de Trabalho\CURSOS\Udemy\SOLID + OO\Curso_OO_SOLID\Aula_8_AsAndIs\obj\Debug\netcoreapp3.1\Aula_8_AsAndIs.genruntimeconfig.cache

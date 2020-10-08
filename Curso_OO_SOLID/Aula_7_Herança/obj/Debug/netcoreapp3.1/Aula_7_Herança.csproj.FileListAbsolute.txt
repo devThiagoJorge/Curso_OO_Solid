@@ -1,0 +1,13 @@
+C:\Users\thiag\OneDrive\Área de Trabalho\CURSOS\Udemy\SOLID + OO\Curso_OO_SOLID\Aula_7_Herança\bin\Debug\netcoreapp3.1\Aula_7_Herança.exe
+C:\Users\thiag\OneDrive\Área de Trabalho\CURSOS\Udemy\SOLID + OO\Curso_OO_SOLID\Aula_7_Herança\bin\Debug\netcoreapp3.1\Aula_7_Herança.deps.json
+C:\Users\thiag\OneDrive\Área de Trabalho\CURSOS\Udemy\SOLID + OO\Curso_OO_SOLID\Aula_7_Herança\bin\Debug\netcoreapp3.1\Aula_7_Herança.runtimeconfig.json
+C:\Users\thiag\OneDrive\Área de Trabalho\CURSOS\Udemy\SOLID + OO\Curso_OO_SOLID\Aula_7_Herança\bin\Debug\netcoreapp3.1\Aula_7_Herança.runtimeconfig.dev.json
+C:\Users\thiag\OneDrive\Área de Trabalho\CURSOS\Udemy\SOLID + OO\Curso_OO_SOLID\Aula_7_Herança\bin\Debug\netcoreapp3.1\Aula_7_Herança.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\CURSOS\Udemy\SOLID + OO\Curso_OO_SOLID\Aula_7_Herança\bin\Debug\netcoreapp3.1\Aula_7_Herança.pdb
+C:\Users\thiag\OneDrive\Área de Trabalho\CURSOS\Udemy\SOLID + OO\Curso_OO_SOLID\Aula_7_Herança\obj\Debug\netcoreapp3.1\Aula_7_Herança.AssemblyInfoInputs.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\CURSOS\Udemy\SOLID + OO\Curso_OO_SOLID\Aula_7_Herança\obj\Debug\netcoreapp3.1\Aula_7_Herança.AssemblyInfo.cs
+C:\Users\thiag\OneDrive\Área de Trabalho\CURSOS\Udemy\SOLID + OO\Curso_OO_SOLID\Aula_7_Herança\obj\Debug\netcoreapp3.1\Aula_7_Herança.csproj.CoreCompileInputs.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\CURSOS\Udemy\SOLID + OO\Curso_OO_SOLID\Aula_7_Herança\obj\Debug\netcoreapp3.1\Aula_7_Herança.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\CURSOS\Udemy\SOLID + OO\Curso_OO_SOLID\Aula_7_Herança\obj\Debug\netcoreapp3.1\Aula_7_Herança.pdb
+C:\Users\thiag\OneDrive\Área de Trabalho\CURSOS\Udemy\SOLID + OO\Curso_OO_SOLID\Aula_7_Herança\obj\Debug\netcoreapp3.1\Aula_7_Herança.genruntimeconfig.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\CURSOS\Udemy\SOLID + OO\Curso_OO_SOLID\Aula_7_Herança\obj\Debug\netcoreapp3.1\Aula_7_Herança.csprojAssemblyReference.cache

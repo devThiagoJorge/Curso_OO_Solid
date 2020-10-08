@@ -94,3 +94,30 @@ Ou seja é possível utilizar o metódo, atributo, classe de qualquer lugar
 
 Um exemplo é o metedo WriteLine ou ReadLine que não precisa de instância.
 
+=========== Herança =========== 
+
+É um dos pilares da OO, basicamente possibilita a relação de classes, ou seja uma classe (filha) herda os atributos, metódos, construtores, de uma classe pai.
+
+Serve para reutilizar código.
+
+É possivel sobrescrever um metodo pai
+
+para isso basta colocar a palavra virtual nno metodo pai 
+
+public virtual void Falar(){}
+
+E na classe filho para sobrescrever é preciso utilizar o override.
+
+public override void Falar(){}
+
+A palavra base() serve para reaproveitar algumas coisas da classe pai  (!!!!!!estudar melhor!!!!!!)
+
+
+=========== As and Is =========== 
+
+As: é usado para executar a conversão entre tipos de referência compativel ou tipo anulados.
+
+Is: é para verificar se o objeto é compativel com o tipo especificado.
+
+
+

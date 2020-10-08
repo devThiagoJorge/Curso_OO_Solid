@@ -1,0 +1,13 @@
+C:\Users\thiag\OneDrive\Área de Trabalho\CURSOS\Udemy\SOLID + OO\Curso_OO_SOLID\Exercicios_Modulo1\bin\Debug\netcoreapp3.1\Exercicios_Modulo1.exe
+C:\Users\thiag\OneDrive\Área de Trabalho\CURSOS\Udemy\SOLID + OO\Curso_OO_SOLID\Exercicios_Modulo1\bin\Debug\netcoreapp3.1\Exercicios_Modulo1.deps.json
+C:\Users\thiag\OneDrive\Área de Trabalho\CURSOS\Udemy\SOLID + OO\Curso_OO_SOLID\Exercicios_Modulo1\bin\Debug\netcoreapp3.1\Exercicios_Modulo1.runtimeconfig.json
+C:\Users\thiag\OneDrive\Área de Trabalho\CURSOS\Udemy\SOLID + OO\Curso_OO_SOLID\Exercicios_Modulo1\bin\Debug\netcoreapp3.1\Exercicios_Modulo1.runtimeconfig.dev.json
+C:\Users\thiag\OneDrive\Área de Trabalho\CURSOS\Udemy\SOLID + OO\Curso_OO_SOLID\Exercicios_Modulo1\bin\Debug\netcoreapp3.1\Exercicios_Modulo1.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\CURSOS\Udemy\SOLID + OO\Curso_OO_SOLID\Exercicios_Modulo1\bin\Debug\netcoreapp3.1\Exercicios_Modulo1.pdb
+C:\Users\thiag\OneDrive\Área de Trabalho\CURSOS\Udemy\SOLID + OO\Curso_OO_SOLID\Exercicios_Modulo1\obj\Debug\netcoreapp3.1\Exercicios_Modulo1.AssemblyInfoInputs.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\CURSOS\Udemy\SOLID + OO\Curso_OO_SOLID\Exercicios_Modulo1\obj\Debug\netcoreapp3.1\Exercicios_Modulo1.AssemblyInfo.cs
+C:\Users\thiag\OneDrive\Área de Trabalho\CURSOS\Udemy\SOLID + OO\Curso_OO_SOLID\Exercicios_Modulo1\obj\Debug\netcoreapp3.1\Exercicios_Modulo1.csproj.CoreCompileInputs.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\CURSOS\Udemy\SOLID + OO\Curso_OO_SOLID\Exercicios_Modulo1\obj\Debug\netcoreapp3.1\Exercicios_Modulo1.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\CURSOS\Udemy\SOLID + OO\Curso_OO_SOLID\Exercicios_Modulo1\obj\Debug\netcoreapp3.1\Exercicios_Modulo1.pdb
+C:\Users\thiag\OneDrive\Área de Trabalho\CURSOS\Udemy\SOLID + OO\Curso_OO_SOLID\Exercicios_Modulo1\obj\Debug\netcoreapp3.1\Exercicios_Modulo1.genruntimeconfig.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\CURSOS\Udemy\SOLID + OO\Curso_OO_SOLID\Exercicios_Modulo1\obj\Debug\netcoreapp3.1\Exercicios_Modulo1.csprojAssemblyReference.cache

@@ -9,11 +9,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula_2_Construtores", "Aula
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula_3_Modelo_Dominio_Rico", "Aula_3_Modelo_Dominio_Rico\Aula_3_Modelo_Dominio_Rico.csproj", "{B59715D4-9E4E-4C97-A668-56514D90A8D5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula_4_Sobrecarga", "Aula_4_Sobrecarga\Aula_4_Sobrecarga.csproj", "{AFE051C4-504B-4ED1-B21D-F26E20CB8B4C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula_4_Sobrecarga", "Aula_4_Sobrecarga\Aula_4_Sobrecarga.csproj", "{AFE051C4-504B-4ED1-B21D-F26E20CB8B4C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula_5_ParametroOpcional", "Aula_5_ParametroOpcional\Aula_5_ParametroOpcional.csproj", "{45D0D37E-4755-4735-85C9-00A6DCF3FE73}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula_5_ParametroOpcional", "Aula_5_ParametroOpcional\Aula_5_ParametroOpcional.csproj", "{45D0D37E-4755-4735-85C9-00A6DCF3FE73}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula_6_MetodosEstaticos", "Aula_6_MetodosEstaticos\Aula_6_MetodosEstaticos.csproj", "{F2D042D6-8C21-42B9-87EE-65548A6FB3D8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula_6_MetodosEstaticos", "Aula_6_MetodosEstaticos\Aula_6_MetodosEstaticos.csproj", "{F2D042D6-8C21-42B9-87EE-65548A6FB3D8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula_7_Herança", "Aula_7_Herança\Aula_7_Herança.csproj", "{773CB55F-1DC7-413F-BB19-F72E984B3300}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula_8_AsAndIs", "Aula_8_AsAndIs\Aula_8_AsAndIs.csproj", "{4509DA11-0F27-4E0D-A68A-C27D03D7583F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicios_Modulo1", "Exercicios_Modulo1\Exercicios_Modulo1.csproj", "{9F7E0348-8848-439A-9A39-A09A2B6EB41A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +51,18 @@ Global
 		{F2D042D6-8C21-42B9-87EE-65548A6FB3D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F2D042D6-8C21-42B9-87EE-65548A6FB3D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F2D042D6-8C21-42B9-87EE-65548A6FB3D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{773CB55F-1DC7-413F-BB19-F72E984B3300}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{773CB55F-1DC7-413F-BB19-F72E984B3300}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{773CB55F-1DC7-413F-BB19-F72E984B3300}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{773CB55F-1DC7-413F-BB19-F72E984B3300}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4509DA11-0F27-4E0D-A68A-C27D03D7583F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4509DA11-0F27-4E0D-A68A-C27D03D7583F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4509DA11-0F27-4E0D-A68A-C27D03D7583F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4509DA11-0F27-4E0D-A68A-C27D03D7583F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F7E0348-8848-439A-9A39-A09A2B6EB41A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F7E0348-8848-439A-9A39-A09A2B6EB41A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F7E0348-8848-439A-9A39-A09A2B6EB41A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F7E0348-8848-439A-9A39-A09A2B6EB41A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
