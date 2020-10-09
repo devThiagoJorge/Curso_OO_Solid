@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\thiag\\OneDrive\\Área de Trabalho\\CURSOS\\Udemy\\SOLID + OO\\Curso_OO_SOLID\\Exercixios_Moulo1\\Exercixios_Moulo1.csproj",
-      "projectName": "Exercixios_Moulo1",
-      "projectPath": "C:\\Users\\thiag\\OneDrive\\Área de Trabalho\\CURSOS\\Udemy\\SOLID + OO\\Curso_OO_SOLID\\Exercixios_Moulo1\\Exercixios_Moulo1.csproj",
+      "projectUniqueName": "C:\\Users\\thiag\\OneDrive\\Área de Trabalho\\CURSOS\\Udemy\\SOLID + OO\\Curso_OO_SOLID\\Aula2_Mod2_Agregacao\\Aula2_Mod2_Agregacao.csproj",
+      "projectName": "Aula2_Mod2_Agregacao",
+      "projectPath": "C:\\Users\\thiag\\OneDrive\\Área de Trabalho\\CURSOS\\Udemy\\SOLID + OO\\Curso_OO_SOLID\\Aula2_Mod2_Agregacao\\Aula2_Mod2_Agregacao.csproj",
       "packagesPath": "C:\\Users\\thiag\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\thiag\\OneDrive\\Área de Trabalho\\CURSOS\\Udemy\\SOLID + OO\\Curso_OO_SOLID\\Exercixios_Moulo1\\obj\\",
+      "outputPath": "C:\\Users\\thiag\\OneDrive\\Área de Trabalho\\CURSOS\\Udemy\\SOLID + OO\\Curso_OO_SOLID\\Aula2_Mod2_Agregacao\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\thiag\\AppData\\Roaming\\NuGet\\NuGet.Config",

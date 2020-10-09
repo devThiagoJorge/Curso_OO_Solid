@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Exercixios_Moulo1
+namespace Aula2_Mod2_Agregacao
 {
     class Program
     {

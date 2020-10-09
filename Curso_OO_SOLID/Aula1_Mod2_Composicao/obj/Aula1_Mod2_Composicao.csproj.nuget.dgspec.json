@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\thiag\\OneDrive\\Área de Trabalho\\CURSOS\\Udemy\\SOLID + OO\\Curso_OO_SOLID\\Exercixios_Moulo1\\Exercixios_Moulo1.csproj": {}
+    "C:\\Users\\thiag\\OneDrive\\Área de Trabalho\\CURSOS\\Udemy\\SOLID + OO\\Curso_OO_SOLID\\Aula1_Mod2_Composicao\\Aula1_Mod2_Composicao.csproj": {}
   },
   "projects": {
-    "C:\\Users\\thiag\\OneDrive\\Área de Trabalho\\CURSOS\\Udemy\\SOLID + OO\\Curso_OO_SOLID\\Exercixios_Moulo1\\Exercixios_Moulo1.csproj": {
+    "C:\\Users\\thiag\\OneDrive\\Área de Trabalho\\CURSOS\\Udemy\\SOLID + OO\\Curso_OO_SOLID\\Aula1_Mod2_Composicao\\Aula1_Mod2_Composicao.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\thiag\\OneDrive\\Área de Trabalho\\CURSOS\\Udemy\\SOLID + OO\\Curso_OO_SOLID\\Exercixios_Moulo1\\Exercixios_Moulo1.csproj",
-        "projectName": "Exercixios_Moulo1",
-        "projectPath": "C:\\Users\\thiag\\OneDrive\\Área de Trabalho\\CURSOS\\Udemy\\SOLID + OO\\Curso_OO_SOLID\\Exercixios_Moulo1\\Exercixios_Moulo1.csproj",
+        "projectUniqueName": "C:\\Users\\thiag\\OneDrive\\Área de Trabalho\\CURSOS\\Udemy\\SOLID + OO\\Curso_OO_SOLID\\Aula1_Mod2_Composicao\\Aula1_Mod2_Composicao.csproj",
+        "projectName": "Aula1_Mod2_Composicao",
+        "projectPath": "C:\\Users\\thiag\\OneDrive\\Área de Trabalho\\CURSOS\\Udemy\\SOLID + OO\\Curso_OO_SOLID\\Aula1_Mod2_Composicao\\Aula1_Mod2_Composicao.csproj",
         "packagesPath": "C:\\Users\\thiag\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\thiag\\OneDrive\\Área de Trabalho\\CURSOS\\Udemy\\SOLID + OO\\Curso_OO_SOLID\\Exercixios_Moulo1\\obj\\",
+        "outputPath": "C:\\Users\\thiag\\OneDrive\\Área de Trabalho\\CURSOS\\Udemy\\SOLID + OO\\Curso_OO_SOLID\\Aula1_Mod2_Composicao\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\thiag\\AppData\\Roaming\\NuGet\\NuGet.Config",
