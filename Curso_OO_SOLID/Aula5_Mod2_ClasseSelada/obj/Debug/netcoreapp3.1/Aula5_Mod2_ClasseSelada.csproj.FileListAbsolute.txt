@@ -1,0 +1,12 @@
+C:\Users\thiag\OneDrive\Área de Trabalho\CURSOS\Udemy\SOLID + OO\Curso_OO_SOLID\Aula5_Mod2_ClasseSelada\bin\Debug\netcoreapp3.1\Aula5_Mod2_ClasseSelada.exe
+C:\Users\thiag\OneDrive\Área de Trabalho\CURSOS\Udemy\SOLID + OO\Curso_OO_SOLID\Aula5_Mod2_ClasseSelada\bin\Debug\netcoreapp3.1\Aula5_Mod2_ClasseSelada.deps.json
+C:\Users\thiag\OneDrive\Área de Trabalho\CURSOS\Udemy\SOLID + OO\Curso_OO_SOLID\Aula5_Mod2_ClasseSelada\bin\Debug\netcoreapp3.1\Aula5_Mod2_ClasseSelada.runtimeconfig.json
+C:\Users\thiag\OneDrive\Área de Trabalho\CURSOS\Udemy\SOLID + OO\Curso_OO_SOLID\Aula5_Mod2_ClasseSelada\bin\Debug\netcoreapp3.1\Aula5_Mod2_ClasseSelada.runtimeconfig.dev.json
+C:\Users\thiag\OneDrive\Área de Trabalho\CURSOS\Udemy\SOLID + OO\Curso_OO_SOLID\Aula5_Mod2_ClasseSelada\bin\Debug\netcoreapp3.1\Aula5_Mod2_ClasseSelada.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\CURSOS\Udemy\SOLID + OO\Curso_OO_SOLID\Aula5_Mod2_ClasseSelada\bin\Debug\netcoreapp3.1\Aula5_Mod2_ClasseSelada.pdb
+C:\Users\thiag\OneDrive\Área de Trabalho\CURSOS\Udemy\SOLID + OO\Curso_OO_SOLID\Aula5_Mod2_ClasseSelada\obj\Debug\netcoreapp3.1\Aula5_Mod2_ClasseSelada.AssemblyInfoInputs.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\CURSOS\Udemy\SOLID + OO\Curso_OO_SOLID\Aula5_Mod2_ClasseSelada\obj\Debug\netcoreapp3.1\Aula5_Mod2_ClasseSelada.AssemblyInfo.cs
+C:\Users\thiag\OneDrive\Área de Trabalho\CURSOS\Udemy\SOLID + OO\Curso_OO_SOLID\Aula5_Mod2_ClasseSelada\obj\Debug\netcoreapp3.1\Aula5_Mod2_ClasseSelada.csproj.CoreCompileInputs.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\CURSOS\Udemy\SOLID + OO\Curso_OO_SOLID\Aula5_Mod2_ClasseSelada\obj\Debug\netcoreapp3.1\Aula5_Mod2_ClasseSelada.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\CURSOS\Udemy\SOLID + OO\Curso_OO_SOLID\Aula5_Mod2_ClasseSelada\obj\Debug\netcoreapp3.1\Aula5_Mod2_ClasseSelada.pdb
+C:\Users\thiag\OneDrive\Área de Trabalho\CURSOS\Udemy\SOLID + OO\Curso_OO_SOLID\Aula5_Mod2_ClasseSelada\obj\Debug\netcoreapp3.1\Aula5_Mod2_ClasseSelada.genruntimeconfig.cache

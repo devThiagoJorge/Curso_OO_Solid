@@ -1,0 +1,13 @@
+C:\Users\thiag\OneDrive\Área de Trabalho\CURSOS\Udemy\SOLID + OO\Curso_OO_SOLID\Aula4_Mod2_ClasseAbstrata\bin\Debug\netcoreapp3.1\Aula4_Mod2_ClasseAbstrata.exe
+C:\Users\thiag\OneDrive\Área de Trabalho\CURSOS\Udemy\SOLID + OO\Curso_OO_SOLID\Aula4_Mod2_ClasseAbstrata\bin\Debug\netcoreapp3.1\Aula4_Mod2_ClasseAbstrata.deps.json
+C:\Users\thiag\OneDrive\Área de Trabalho\CURSOS\Udemy\SOLID + OO\Curso_OO_SOLID\Aula4_Mod2_ClasseAbstrata\bin\Debug\netcoreapp3.1\Aula4_Mod2_ClasseAbstrata.runtimeconfig.json
+C:\Users\thiag\OneDrive\Área de Trabalho\CURSOS\Udemy\SOLID + OO\Curso_OO_SOLID\Aula4_Mod2_ClasseAbstrata\bin\Debug\netcoreapp3.1\Aula4_Mod2_ClasseAbstrata.runtimeconfig.dev.json
+C:\Users\thiag\OneDrive\Área de Trabalho\CURSOS\Udemy\SOLID + OO\Curso_OO_SOLID\Aula4_Mod2_ClasseAbstrata\bin\Debug\netcoreapp3.1\Aula4_Mod2_ClasseAbstrata.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\CURSOS\Udemy\SOLID + OO\Curso_OO_SOLID\Aula4_Mod2_ClasseAbstrata\bin\Debug\netcoreapp3.1\Aula4_Mod2_ClasseAbstrata.pdb
+C:\Users\thiag\OneDrive\Área de Trabalho\CURSOS\Udemy\SOLID + OO\Curso_OO_SOLID\Aula4_Mod2_ClasseAbstrata\obj\Debug\netcoreapp3.1\Aula4_Mod2_ClasseAbstrata.csprojAssemblyReference.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\CURSOS\Udemy\SOLID + OO\Curso_OO_SOLID\Aula4_Mod2_ClasseAbstrata\obj\Debug\netcoreapp3.1\Aula4_Mod2_ClasseAbstrata.AssemblyInfoInputs.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\CURSOS\Udemy\SOLID + OO\Curso_OO_SOLID\Aula4_Mod2_ClasseAbstrata\obj\Debug\netcoreapp3.1\Aula4_Mod2_ClasseAbstrata.AssemblyInfo.cs
+C:\Users\thiag\OneDrive\Área de Trabalho\CURSOS\Udemy\SOLID + OO\Curso_OO_SOLID\Aula4_Mod2_ClasseAbstrata\obj\Debug\netcoreapp3.1\Aula4_Mod2_ClasseAbstrata.csproj.CoreCompileInputs.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\CURSOS\Udemy\SOLID + OO\Curso_OO_SOLID\Aula4_Mod2_ClasseAbstrata\obj\Debug\netcoreapp3.1\Aula4_Mod2_ClasseAbstrata.dll
+C:\Users\thiag\OneDrive\Área de Trabalho\CURSOS\Udemy\SOLID + OO\Curso_OO_SOLID\Aula4_Mod2_ClasseAbstrata\obj\Debug\netcoreapp3.1\Aula4_Mod2_ClasseAbstrata.pdb
+C:\Users\thiag\OneDrive\Área de Trabalho\CURSOS\Udemy\SOLID + OO\Curso_OO_SOLID\Aula4_Mod2_ClasseAbstrata\obj\Debug\netcoreapp3.1\Aula4_Mod2_ClasseAbstrata.genruntimeconfig.cache
